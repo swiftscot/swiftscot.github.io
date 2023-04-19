@@ -1,0 +1,21 @@
+body {
+    background-color: #001000;
+    font-family: Verdana;
+}
+text {
+    margin:8px;
+}
+img {
+    margin:8px;
+}
+#maindiv {
+    background-color: #005000;
+    color: #001000;
+    display: block;
+    margin: auto;
+    width: 65%;
+}
+a {
+	color: #001000;
+	text-decoration: none;
+}
