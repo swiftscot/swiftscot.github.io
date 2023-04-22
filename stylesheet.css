@@ -11,9 +11,8 @@ img {
 #maindiv {
     background-color: #005000;
     color: #001000;
-    display: block;
-    margin: auto;
-    width: 65%;
+    width: 64%;
+	float:left;
 }
 a {
 	color: #001000;
