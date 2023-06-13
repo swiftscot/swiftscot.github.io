@@ -1,0 +1,15 @@
+body {
+    font-family:sans-serif;
+    background-color:#DDD;
+    text-align:center;
+}
+a {
+    color:black;
+    text-decoration:none;
+}
+p {
+	text-align:left;
+}
+li {
+	text-align:left;
+}
